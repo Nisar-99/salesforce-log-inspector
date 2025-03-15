@@ -1,6 +1,7 @@
 # ✨ Features
 
 - 🗒️ **Row Log** - Easily view individual log rows with a quick find feature and a highlighted code theme for easier identification of key information.
+- 📝 **Debug Only** - This feature in Salesforce shows only `System.debug()` outputs, simplifying troubleshooting by excluding other log details.
 - 🔥 **Timeline / Flame chart** - Gain an in-depth understanding of code execution over time with a timeline flame chart. Tooltips provide additional details about events for a deeper analysis of performance.
 - 🌳 **Call Tree** - View the execution path in a tree view with aggregated DML Count, SOQL Count, Throws Count, Row Count, Self Time and Total Time.
 - 🧠 **Analysis** - Quickly identify which methods consumed the most time in aggregate, helping you pinpoint performance bottlenecks and areas for optimization.
