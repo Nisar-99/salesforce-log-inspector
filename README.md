@@ -4,7 +4,8 @@ Welcome to **Salesforce Debug Analyzer**, your ultimate tool for quickly and eas
 
 ## Features
 
-- 🗒️ Row Log Viewer 
+- 🗒️ Row Log Viewer
+- 📝 Debug Only Viewer
 - 🔥 Timeline Chart 
 - 🌳 Call Tree  
 - 🧠 Analysis  
