@@ -12,7 +12,11 @@
 
 View individual log rows with a quick find feature to quickly locate specific entries. The log rows are displayed with a highlighted code theme to make it easier to identify important sections of code, variables, and events. This feature helps you quickly navigate through logs and focus on relevant details for debugging.
 
-![Row Log View](./media/row.jpg)
+![Row Log View](./media/row-log.jpg)
+
+## 🗒️ Debug Only
+
+![Row Log View](./media/debug-only.jpg)
 
 ## 🔥 Timeline Chart
 
