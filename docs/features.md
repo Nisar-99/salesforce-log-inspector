@@ -16,6 +16,8 @@ View individual log rows with a quick find feature to quickly locate specific en
 
 ## 🗒️ Debug Only
 
+The "Debug Only" option  is a specialized log view that shows only the output from `System.debug()` statements in Apex code. This feature is particularly useful for developers when they want to focus specifically on the debug output and exclude other details in the log that might distract from troubleshooting or analysis.
+
 ![Row Log View](./media/debug-only.jpg)
 
 ## 🔥 Timeline Chart
