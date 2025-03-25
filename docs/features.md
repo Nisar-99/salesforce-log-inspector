@@ -26,6 +26,20 @@ The timeline flame chart provides a visual representation of code execution over
 
 ![Timeline View](./media/timeline.png)
 
+**Zoom + pan**
+- Scroll up and down with the mouse to zoom in and out to an accuracy of 0.01ms, time markers are shown with a ms time value and graph view.
+- When zooming the mouse pointer position is kept on screen.
+- Scroll left and right on the mouse to move the time line left are right, when zoomed
+- Click the mouse down and drag to move the timeline around both in the x and y direction, when zoomed
+
+**Tooltip**
+Hovering over an element provides information on the item. tooltip provides the following information.
+- **Event Name** - e.g `METHOD_ENTRY`, `EXECUTION_STARTED`, `SOQL_EXECUTION_BEGIN` etc
+- **Event Description** - Additional information about the event such as method name or SOQL query executed.
+- **Timestamp** - The start and end timestamp for the given event which can be cross referenced in the log file.
+- **Duration** - Made up of Total Time (time spent in that event and its children) and Self Time (time directly spent in that event).
+- **Rows** - Shows Total Rows (rows from that event and its children) and Self Rows (rows directly from that event).
+
 ## 🌳 Call Tree 
 
 The call tree view offers a hierarchical representation of the execution path, showing which methods were called and how they relate to one another. It provides detailed metrics for each method, including:
