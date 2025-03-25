@@ -33,6 +33,7 @@ The timeline flame chart provides a visual representation of code execution over
 - Click the mouse down and drag to move the timeline around both in the x and y direction, when zoomed
 
 **Tooltip**
+
 Hovering over an element provides information on the item. tooltip provides the following information.
 - **Event Name** - e.g `METHOD_ENTRY`, `EXECUTION_STARTED`, `SOQL_EXECUTION_BEGIN` etc
 - **Event Description** - Additional information about the event such as method name or SOQL query executed.
