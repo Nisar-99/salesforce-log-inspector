@@ -27,7 +27,7 @@ The timeline flame chart provides a visual representation of code execution over
 ![Timeline View](./media/timeline.png)
 
 **On Zoom**
-- Scroll up and down with the mouse to zoom in and out to an accuracy of 0.01ms, time markers are shown with a ms time value and graph view.
+- Scroll up and down with the mouse to zoom in and out to an accuracy, time markers are shown with a ms time value and graph view.
 - When zooming the mouse pointer position is kept on screen.
 - Scroll left and right on the mouse to move the time line left are right, when zoomed
 - Click the mouse down and drag to move the timeline around both in the x and y direction, when zoomed
