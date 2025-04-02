@@ -6,12 +6,12 @@ certinia.com
 
 ## Features
 
-- 🗒️ Row Log Viewer
-- 📝 Debug Only
-- 🔥 Timeline Chart 
+- 📑 Row Log Viewer
+- 🔤 Debug Only
+- 🕒 Timeline Chart 
 - 🌳 Call Tree  
-- 🧠 Analysis  
-- 💾 Database   
+- 🔍 Analysis  
+- 🛢️ Database   
 
 
 ## Download the App
