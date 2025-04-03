@@ -5,12 +5,13 @@ Welcome to **Salesforce Debug Analyzer**, your ultimate tool for quickly and eas
 
 ## Features
 
-- 📑 Row Log Viewer
-- 🔤 Debug Only
-- 🕒 Timeline Chart 
-- 🌳 Call Tree  
-- 🔍 Analysis  
-- 🛢️ Database   
+- 🗂️ Log Explorer
+- 🐞 Debug Inspector
+- 📅 Event Timeline
+- 🔗 Method Calling Hierarchy  
+- 🔎 Deep Dive Analysis  
+- 🛢️ SOQL Analysis
+- 🧮 DML Analysis  
 
 
 ## Download the App
@@ -20,5 +21,4 @@ Click the button below to download Salesforce Debug Analyzer and start improving
 [Download Now](https://chromewebstore.google.com/detail/salesforce-debug-analyzer/jebmhhcaiafpcjneboknfkmijegiihoe) 
 
  
-
 
