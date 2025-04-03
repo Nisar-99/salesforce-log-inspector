@@ -2,9 +2,9 @@
 
 - 🗂️ Log Explorer
 - 🐞 Debug Inspector
-- 📅 Event Timeline
-- 🔗 Method Calling Hierarchy  
-- 🔎 In-Deep Analysis  
+- 🏳️‍🌈 Event Timeline
+- 🔗 Event Calling Hierarchy  
+- 🔎 Event Analysis  
 - 🛢️ SOQL Analysis
 - 🧮 DML Analysis  
 
