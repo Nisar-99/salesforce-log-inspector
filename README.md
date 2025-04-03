@@ -4,7 +4,7 @@
 - 🐞 Debug Inspector
 - 📅 Event Timeline
 - 🔗 Method Calling Hierarchy  
-- 🔎 Deep Dive Analysis  
+- 🔎 In-Deep Analysis  
 - 🛢️ SOQL Analysis
 - 🧮 DML Analysis  
 
