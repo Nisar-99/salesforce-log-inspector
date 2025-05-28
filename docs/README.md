@@ -20,5 +20,5 @@ Click the button below to download Salesforce Debug Analyzer and start improving
 
 [Download Now](https://chromewebstore.google.com/detail/salesforce-debug-analyzer/jebmhhcaiafpcjneboknfkmijegiihoe) 
 
-> I would like to acknowledge and thank [Salesforce]((https://help.salesforce.com/s/articleView?id=platform.code_dev_console_view_system_log.htm&type=5) and [Certinia.com](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) for the inspiration and creative influence that helped shape this work.
+> I would like to acknowledge and thank [Salesforce](https://help.salesforce.com/s/articleView?id=platform.code_dev_console_view_system_log.htm&type=5) and [Certinia.com](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) for the inspiration and creative influence that helped shape this work.
 
