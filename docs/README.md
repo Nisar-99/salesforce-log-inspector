@@ -12,7 +12,7 @@ Thank you for installing **Salesforce Log Inspector**, a Chrome extension that h
 - 🛢️ SOQL Analysis
 - 🧮 DML Analysis
 
-> Credit: I would like to acknowledge and thank [Salesforce](https://help.salesforce.com/s/articleView?id=platform.code_dev_console_view_system_log.htm&type=5) `Developer Console` and [Certinia](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) `VS Code Extension` for the inspiration and creative influence that helped shape this work.
+> ❤️ Credit: I would like to acknowledge and thank [Salesforce](https://help.salesforce.com/s/articleView?id=platform.code_dev_console_view_system_log.htm&type=5) `Developer Console` and [Certinia](https://marketplace.visualstudio.com/items?itemName=financialforce.lana) `VS Code Extension` for the inspiration and creative influence that helped shape this work.
 
 
 
