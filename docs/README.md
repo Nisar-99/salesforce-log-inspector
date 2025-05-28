@@ -2,7 +2,7 @@
 
 Thank you for installing **Salesforce Log Inspector**, a Chrome extension that helps you inspect, analyze, and optimize your Salesforce Debug Log.
 
-## Features
+### Features
 
 - 🗂️ Log Explorer
 - 🐞 Apex Debug
