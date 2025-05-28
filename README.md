@@ -1,10 +1,10 @@
-# Salesforce Debug Analyzer
+# Salesforce Log Inspector
 
 - 🗂️ Log Explorer
-- 🐞 Debug Inspector
-- 🏳️‍🌈 Event Timeline
-- 🔗 Event Calling Hierarchy  
-- 🔎 Event Analysis  
+- 🐞 Apex Debug
+- 🏳️‍🌈 Execution Timeline
+- 🔗 Execution Tree  
+- 🔎 Execution Analysis  
 - 🛢️ SOQL Analysis
 - 🧮 DML Analysis  
 
