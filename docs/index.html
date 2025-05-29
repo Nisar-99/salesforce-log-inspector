@@ -7,6 +7,17 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7LJMNCZREF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7LJMNCZREF');
+</script>
+  
 </head>
 <body>
   <div id="app"></div>
@@ -16,6 +27,7 @@
       repo: '',
       loadSidebar: true,
       loadNavbar: true,
+       executeScript: true,
       subMaxLevel: 2,
        repo: 'https://github.com/Nisar-99/salesforce-log-inspector'
     }
