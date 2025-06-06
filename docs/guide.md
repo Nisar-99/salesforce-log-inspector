@@ -31,6 +31,8 @@ Before you start using the app, ensure that you have:
 
 ![Step1](./media/manual-step1.jpg)
 
+- sdsdd
+
 ![Step2](./media/manual-step2.jpg)
 
 ### 4. Repeat for Other Logs
