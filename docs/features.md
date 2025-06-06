@@ -3,7 +3,7 @@
 - 🗂️ **Log Explorer** - Easily view individual log rows with a quick find feature and a highlighted code theme for easier identification of key information.
 - 🐞 **Apex Debug** - This feature in Salesforce shows only `System.debug()` outputs, simplifying troubleshooting by excluding other log details.
 - 🏳️‍🌈 **Execution Timeline** - Gain an in-depth understanding of code execution over time with a timeline flame chart. Tooltips provide additional details about events for a deeper analysis of performance.
-- 🔗 **Execution Tree** - View the execution path in a tree view with aggregated DML Count, SOQL Count, Throws Count, Row Count, Self Time and Total Time.
+- 🔗 **Execution Tree** - View the execution path in a tree view with aggregated DML Count, SOQL Count, Throws Count, Row Count, Self Time, and Total Time.
 - 🔎 **Execution Analysis** - Quickly identify which methods consumed the most time in aggregate, helping you pinpoint performance bottlenecks and areas for optimization.
 - 🛢️ **SOQL Analysis** - Identify which SOQL executed the most, returned the most rows and took the most time.
 - 🧮 **DML Analysis** - Identify which DML executed the most, returned the most rows and took the most time.
@@ -29,16 +29,16 @@ The timeline flame chart provides a visual representation of code execution over
 
 **On Zoom**
 - Scroll up and down with the mouse to zoom in and out to an accuracy, time markers are shown with a ms time value and graph view.
-- When zooming the mouse pointer position is kept on screen.
-- Scroll left and right on the mouse to move the time line left are right, when zoomed
+- When zooming, the mouse pointer position is kept on screen.
+- Scroll left and right on the mouse to move the timeline left are right, when zoomed
 - Click the mouse down and drag to move the timeline around both in the x and y direction, when zoomed
 
 **On Hover**
 
-Hovering over an element provides information on the item. tooltip provides the following information.
+Hovering over an element provides information on the item. The tooltip provides the following information.
 - **Event Name** - e.g `METHOD_ENTRY`, `EXECUTION_STARTED`, `SOQL_EXECUTION_BEGIN` etc
-- **Event Description** - Additional information about the event such as method name or SOQL query executed.
-- **Timestamp** - The start and end timestamp for the given event which can be cross referenced in the log file.
+- **Event Description** - Additional information about the event, such as method name or SOQL query executed.
+- **Timestamp** - The start and end timestamp for the given event, which can be cross-referenced in the log file.
 - **Duration** - Made up of Total Time (time spent in that event and its children) and Self Time (time directly spent in that event).
 - **Rows** - Shows Total Rows (rows from that event and its children) and Self Rows (rows directly from that event).
 
@@ -46,19 +46,19 @@ Hovering over an element provides information on the item. tooltip provides the 
 
 The call tree view offers a hierarchical representation of the execution path, showing which methods were called and how they relate to one another. It provides detailed metrics for each method, including:
 
-- DML Count: How many DML operations were performed.
-- SOQL Count: How many SOQL queries were executed.
-- Throws Count: How many exceptions were thrown during execution.
+- DML Count: How many DML operations were performed?
+- SOQL Count: How many SOQL queries were executed?
+- Throws Count: How many exceptions were thrown during execution?
 - Row Count: The number of rows affected or returned by operations.
 - Self Time: Time taken by the method itself (excluding calls to other methods).
-- Total Time: Total time spent including calls to other methods.
-- You can filter events to focus on specific methods or time periods, allowing you to drill down into critical areas of the log.
+- Total Time: Total time spent, including calls to other methods.
+- You can filter events to focus on specific methods or periods, allowing you to drill down into critical areas of the log.
 
 ![Calltree View](./media/calltree.jpg)
 
 ## 🔎 Execution Analysis
 
-The analysis feature helps you quickly identify the methods or operations that took the most time overall. By aggregating the time spent across methods, it provides a clear overview of performance bottlenecks, making it easy to prioritize areas for optimization. This can help you pinpoint which parts of the code are consuming the most resources and need attention.
+The analysis feature helps you quickly identify the methods or operations that took the most time overall. Aggregating the time spent across methods provides a clear overview of performance bottlenecks, making it easy to prioritize areas for optimization. This can help you pinpoint which parts of the code are consuming the most resources and need attention.
 
 ![Analysis View](./media/analysis.jpg)
 
@@ -66,11 +66,13 @@ The analysis feature helps you quickly identify the methods or operations that t
 
 The database feature focuses on analyzing SOQL queries and DML operations. It shows you which queries:
 
-- Executed the most (called queries/dml)
-- Returned the most rows (helping identify inefficient queries/dml)
-- Took the longest time to execute (allowing you to optimize slow-running queries) This feature helps you understand the database operations that are impacting performance, enabling you to optimize queries and improve efficiency.
+- Executed the most (called SOQL/DML)
+- Returned the most rows (helping identify inefficient queries/DML)
+- Took the longest time to execute (allowing you to optimize slow-running queries) This feature helps you understand the database operations impacting performance, enabling you to optimize queries and improve efficiency.
 
-![Database View](./media/database.jpg)
+![SML View](./media/database.jpg)
+
+![SOQL View](./media/soql.jpg)
 
 ---
 
