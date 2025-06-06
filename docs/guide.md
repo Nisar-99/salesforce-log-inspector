@@ -31,7 +31,7 @@ Before you start using the app, ensure that you have:
 
 ![Step1](./media/manual-step1.jpg)
 
-![Step1](./media/manual-step2.jpg)
+![Step2](./media/manual-step2.jpg)
 
 ### 4. Repeat for Other Logs
 - If you need to analyze additional debug logs, simply return to the Salesforce Debug Logs page and click the **Analyze** button for the next log row. 
