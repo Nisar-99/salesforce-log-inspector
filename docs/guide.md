@@ -19,21 +19,33 @@ Before you start using the app, ensure that you have:
 - Find the log entry you want to analyze. This could be based on a specific user, time, or action.
 
 ### 3. Launch the App for Analysis
-#### 1. Automatic
 - For each log row in the list, there will be an **Analyze** button.
 - Click the **Analyze** button next to the log entry you want to inspect. This will automatically launch the Salesforce Debug Log Analyzer app.
 
 ![How to launch](./media/app-launch.jpg)
 
-#### 2. Manual/Local File
-- For each log row in the list, there will be an **Analyze** button.
-- Click the **Analyze** button next to the log entry you want to inspect. This will automatically launch the Salesforce Debug Log Analyzer app.
+---
 
-![Step1](./media/manual-step1.jpg)
+### 4. Manual Upload Log and Analysis Guide
+Steps to Upload and Analyze a Log File
+*1. Open the Chrome Extension*
+- Click on the Chrome extension icon in the browser toolbar.
+- This will launch the log analysis app.
 
-- sdsdd
+  ![Step1](./media/manual-step1.jpg)
+
+*2. Upload Your Log File*
+- Inside the application, click on the "Upload Log File" button.
+- A file selector dialog will appear.
+- Select your `.log` file from your local system.
 
 ![Step2](./media/manual-step2.jpg)
 
-### 4. Repeat for Other Logs
+*3. Automatic Analysis Begins*
+- Once the file is uploaded, the app will automatically begin analyzing the log content.
+- Results will be displayed on the screen once the analysis is complete.
+
+---
+
+### 5. Repeat for Other Logs
 - If you need to analyze additional debug logs, simply return to the Salesforce Debug Logs page and click the **Analyze** button for the next log row. 
