@@ -19,10 +19,19 @@ Before you start using the app, ensure that you have:
 - Find the log entry you want to analyze. This could be based on a specific user, time, or action.
 
 ### 3. Launch the App for Analysis
+#### 1. Automatic
 - For each log row in the list, there will be an **Analyze** button.
 - Click the **Analyze** button next to the log entry you want to inspect. This will automatically launch the Salesforce Debug Log Analyzer app.
 
 ![How to launch](./media/app-launch.jpg)
+
+#### 2. Manual/Local File
+- For each log row in the list, there will be an **Analyze** button.
+- Click the **Analyze** button next to the log entry you want to inspect. This will automatically launch the Salesforce Debug Log Analyzer app.
+
+![Step1](./media/manual-step1.jpg)
+
+![Step1](./media/manual-step2.jpg)
 
 ### 4. Repeat for Other Logs
 - If you need to analyze additional debug logs, simply return to the Salesforce Debug Logs page and click the **Analyze** button for the next log row. 
