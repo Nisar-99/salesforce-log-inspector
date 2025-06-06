@@ -28,20 +28,21 @@ Before you start using the app, ensure that you have:
 
 ### 4. Manual Upload Log and Analysis Guide
 Steps to Upload and Analyze a Log File
-*1. Open the Chrome Extension*
+
+**1. Open the Chrome Extension**
 - Click on the Chrome extension icon in the browser toolbar.
 - This will launch the log analysis app.
 
   ![Step1](./media/manual-step1.jpg)
 
-*2. Upload Your Log File*
+**2. Upload Your Log File**
 - Inside the application, click on the "Upload Log File" button.
 - A file selector dialog will appear.
 - Select your `.log` file from your local system.
 
 ![Step2](./media/manual-step2.jpg)
 
-*3. Automatic Analysis Begins*
+**3. Automatic Analysis Begins**
 - Once the file is uploaded, the app will automatically begin analyzing the log content.
 - Results will be displayed on the screen once the analysis is complete.
 
