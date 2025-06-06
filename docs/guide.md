@@ -50,7 +50,7 @@ Steps to Upload and Analyze a Log File
 - Ensure your log file is not corrupted and follows a consistent format for accurate analysis.
 - If the upload fails, verify the file extension and try again.
 - **If you've already uploaded a log file and want to upload a different one, you must refresh the page or relaunch the app.**
-_Due to a technical limitation, re-uploading without refreshing is not currently supported. We plan to address this in a future update._
+Due to a technical limitation, re-uploading without refreshing is not currently supported. We plan to address this in a future update.
 
 
 ---
