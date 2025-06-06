@@ -47,6 +47,7 @@ Steps to Upload and Analyze a Log File
 - Results will be displayed on the screen once the analysis is complete.
 
 **📝 Notes**
+- Only files with the `.log` extension are supported for upload and analysis.
 - Ensure your log file is not corrupted and follows a consistent format for accurate analysis.
 - If the upload fails, verify the file extension and try again.
 - **If you've already uploaded a log file and want to upload a different one, you must refresh the page or relaunch the app.**
