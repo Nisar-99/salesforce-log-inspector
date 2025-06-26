@@ -18,6 +18,8 @@ Thank you for installing **Salesforce Log Inspector**, a Chrome extension that h
 
 ![DocumentVersion](https://img.shields.io/badge/1.0.3-blue?style=flat-square&label=Document%20Version
 )
+![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/jebmhhcaiafpcjneboknfkmijegiihoe?style=flat-square)
+
 
 
 
